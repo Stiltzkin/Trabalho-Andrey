@@ -100,11 +100,9 @@ namespace Andrey_2.Controllers
         {
             if (id == null)
             {
-                return new HttpStatusCodeResult(HttpStatusCode.
-                BadRequest);
+                return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
-            Produto produto = context.Produtos.Where(p => p.ProdutoId ==
-            id).Include(c => c.Categoria).Include(f => f.Fabricante).First();
+            Produto produto = context.Produtos.Where(p => p.ProdutoId == id).Include(c => c.Categoria).Include(f => f.Fabricante).First();
             if (produto == null)
             {
                 return HttpNotFound();
