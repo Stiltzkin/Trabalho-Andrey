@@ -1,7 +1,7 @@
 ﻿@model IEnumerable<Andrey_8.Models.Cadastro>
 
 @{
-    ViewBag.Title = "Index";
+    ViewBag.Title = "Cadastro de Clientes";
 }
 <p></p>
 
@@ -18,16 +18,13 @@
 <table class="table">
     <tr>
         <th>
-            <!--@Html.DisplayNameFor(model => model.Cliente.Nome)-->
-            Nome do Cliente
+            @Html.DisplayNameFor(model => model.Cliente.Nome)
         </th>
         <th>
-            <!--@Html.DisplayNameFor(model => model.Cobertura.Nome)-->
-            Cobertura
+            @Html.DisplayNameFor(model => model.Cobertura.Nome)
         </th>
         <th>
-            <!--@Html.DisplayNameFor(model => model.NumeroCadastro)-->
-            Numero de Cadastro
+            @Html.DisplayNameFor(model => model.NumeroCadastro)
         </th>
         <th></th>
     </tr>
