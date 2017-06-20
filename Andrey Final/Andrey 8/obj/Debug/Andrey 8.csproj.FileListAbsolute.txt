@@ -1,0 +1,51 @@
+C:\Users\kawag\Google Drive\Faculdade\2º Semestre\Programação Visual\Andrey 8\Andrey 8\bin\roslyn\csc.exe
+C:\Users\kawag\Google Drive\Faculdade\2º Semestre\Programação Visual\Andrey 8\Andrey 8\bin\roslyn\csc.exe.config
+C:\Users\kawag\Google Drive\Faculdade\2º Semestre\Programação Visual\Andrey 8\Andrey 8\bin\roslyn\csc.rsp
+C:\Users\kawag\Google Drive\Faculdade\2º Semestre\Programação Visual\Andrey 8\Andrey 8\bin\roslyn\csi.exe
+C:\Users\kawag\Google Drive\Faculdade\2º Semestre\Programação Visual\Andrey 8\Andrey 8\bin\roslyn\csi.rsp
+C:\Users\kawag\Google Drive\Faculdade\2º Semestre\Programação Visual\Andrey 8\Andrey 8\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kawag\Google Drive\Faculdade\2º Semestre\Programação Visual\Andrey 8\Andrey 8\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kawag\Google Drive\Faculdade\2º Semestre\Programação Visual\Andrey 8\Andrey 8\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kawag\Google Drive\Faculdade\2º Semestre\Programação Visual\Andrey 8\Andrey 8\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kawag\Google Drive\Faculdade\2º Semestre\Programação Visual\Andrey 8\Andrey 8\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kawag\Google Drive\Faculdade\2º Semestre\Programação Visual\Andrey 8\Andrey 8\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kawag\Google Drive\Faculdade\2º Semestre\Programação Visual\Andrey 8\Andrey 8\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kawag\Google Drive\Faculdade\2º Semestre\Programação Visual\Andrey 8\Andrey 8\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kawag\Google Drive\Faculdade\2º Semestre\Programação Visual\Andrey 8\Andrey 8\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kawag\Google Drive\Faculdade\2º Semestre\Programação Visual\Andrey 8\Andrey 8\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kawag\Google Drive\Faculdade\2º Semestre\Programação Visual\Andrey 8\Andrey 8\bin\roslyn\System.AppContext.dll
+C:\Users\kawag\Google Drive\Faculdade\2º Semestre\Programação Visual\Andrey 8\Andrey 8\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kawag\Google Drive\Faculdade\2º Semestre\Programação Visual\Andrey 8\Andrey 8\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kawag\Google Drive\Faculdade\2º Semestre\Programação Visual\Andrey 8\Andrey 8\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kawag\Google Drive\Faculdade\2º Semestre\Programação Visual\Andrey 8\Andrey 8\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kawag\Google Drive\Faculdade\2º Semestre\Programação Visual\Andrey 8\Andrey 8\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kawag\Google Drive\Faculdade\2º Semestre\Programação Visual\Andrey 8\Andrey 8\bin\roslyn\vbc.exe
+C:\Users\kawag\Google Drive\Faculdade\2º Semestre\Programação Visual\Andrey 8\Andrey 8\bin\roslyn\vbc.exe.config
+C:\Users\kawag\Google Drive\Faculdade\2º Semestre\Programação Visual\Andrey 8\Andrey 8\bin\roslyn\vbc.rsp
+C:\Users\kawag\Google Drive\Faculdade\2º Semestre\Programação Visual\Andrey 8\Andrey 8\bin\roslyn\VBCSCompiler.exe
+C:\Users\kawag\Google Drive\Faculdade\2º Semestre\Programação Visual\Andrey 8\Andrey 8\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kawag\Google Drive\Faculdade\2º Semestre\Programação Visual\Andrey 8\Andrey 8\bin\Andrey 8.dll.config
+C:\Users\kawag\Google Drive\Faculdade\2º Semestre\Programação Visual\Andrey 8\Andrey 8\bin\Andrey 8.dll
+C:\Users\kawag\Google Drive\Faculdade\2º Semestre\Programação Visual\Andrey 8\Andrey 8\bin\Andrey 8.pdb
+C:\Users\kawag\Google Drive\Faculdade\2º Semestre\Programação Visual\Andrey 8\Andrey 8\bin\EntityFramework.dll
+C:\Users\kawag\Google Drive\Faculdade\2º Semestre\Programação Visual\Andrey 8\Andrey 8\bin\EntityFramework.SqlServer.dll
+C:\Users\kawag\Google Drive\Faculdade\2º Semestre\Programação Visual\Andrey 8\Andrey 8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kawag\Google Drive\Faculdade\2º Semestre\Programação Visual\Andrey 8\Andrey 8\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kawag\Google Drive\Faculdade\2º Semestre\Programação Visual\Andrey 8\Andrey 8\bin\System.Web.Helpers.dll
+C:\Users\kawag\Google Drive\Faculdade\2º Semestre\Programação Visual\Andrey 8\Andrey 8\bin\System.Web.Mvc.dll
+C:\Users\kawag\Google Drive\Faculdade\2º Semestre\Programação Visual\Andrey 8\Andrey 8\bin\System.Web.Razor.dll
+C:\Users\kawag\Google Drive\Faculdade\2º Semestre\Programação Visual\Andrey 8\Andrey 8\bin\System.Web.Webpages.Deployment.dll
+C:\Users\kawag\Google Drive\Faculdade\2º Semestre\Programação Visual\Andrey 8\Andrey 8\bin\System.Web.Webpages.dll
+C:\Users\kawag\Google Drive\Faculdade\2º Semestre\Programação Visual\Andrey 8\Andrey 8\bin\System.Web.Webpages.Razor.dll
+C:\Users\kawag\Google Drive\Faculdade\2º Semestre\Programação Visual\Andrey 8\Andrey 8\bin\EntityFramework.xml
+C:\Users\kawag\Google Drive\Faculdade\2º Semestre\Programação Visual\Andrey 8\Andrey 8\bin\EntityFramework.SqlServer.xml
+C:\Users\kawag\Google Drive\Faculdade\2º Semestre\Programação Visual\Andrey 8\Andrey 8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kawag\Google Drive\Faculdade\2º Semestre\Programação Visual\Andrey 8\Andrey 8\bin\System.Web.Razor.xml
+C:\Users\kawag\Google Drive\Faculdade\2º Semestre\Programação Visual\Andrey 8\Andrey 8\bin\System.Web.Webpages.xml
+C:\Users\kawag\Google Drive\Faculdade\2º Semestre\Programação Visual\Andrey 8\Andrey 8\bin\System.Web.Webpages.Deployment.xml
+C:\Users\kawag\Google Drive\Faculdade\2º Semestre\Programação Visual\Andrey 8\Andrey 8\bin\System.Web.Webpages.Razor.xml
+C:\Users\kawag\Google Drive\Faculdade\2º Semestre\Programação Visual\Andrey 8\Andrey 8\bin\System.Web.Helpers.xml
+C:\Users\kawag\Google Drive\Faculdade\2º Semestre\Programação Visual\Andrey 8\Andrey 8\bin\System.Web.Mvc.xml
+C:\Users\kawag\Google Drive\Faculdade\2º Semestre\Programação Visual\Andrey 8\Andrey 8\obj\Debug\Andrey 8.dll
+C:\Users\kawag\Google Drive\Faculdade\2º Semestre\Programação Visual\Andrey 8\Andrey 8\obj\Debug\Andrey 8.pdb
+C:\Users\kawag\Google Drive\Faculdade\2º Semestre\Programação Visual\Andrey 8\Andrey 8\obj\Debug\Andrey 8.csprojResolveAssemblyReference.cache
